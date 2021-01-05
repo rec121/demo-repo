@@ -1,1 +1,4 @@
 /config/
+.class
+/node_modules/
+.ejemplo
